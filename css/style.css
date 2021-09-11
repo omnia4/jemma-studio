@@ -1,0 +1,144 @@
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: 'Lato';
+    font-size: 16px;
+    color: #333;
+    background-color:#fff;
+}
+header{
+    min-height: 100vh;
+    
+    background-image: url(../images/header.png);
+    background-size: cover;
+    background-position: center;
+ 
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    margin-right: 5px;
+    
+}
+
+.header-jemma{
+    padding-top: 50%;
+    padding-bottom: 5%;
+
+}
+.header-jemma h1{
+    color: #478AC9;
+    font-size: 5rem;
+}
+.btn{
+   background-color: cornflowerblue;
+}
+
+
+.section2{
+    min-height: 100vh;
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)
+    ) , url(../images/section2.jpeg);
+   
+    background-position: center;
+    background-size: cover;
+}
+.tutorial{
+    padding-top: 30%;
+    padding-bottom: 10%;
+}
+.no{
+    padding-top: 29%;
+    padding-left: 5%;
+}
+.casel{
+    padding-top: 10%;
+    padding-right: 5%;
+}
+.section3{
+    min-height: 100vh;
+    background-color: black;
+}
+.boy{
+    padding-left: 0;
+    margin-left: 0;
+}
+.last{
+    position: relative;
+}
+.most{
+    padding-top: 90px;
+    color:#478AC9 ;
+    font-size: 35px;
+   
+}
+.left{
+    background-color: cornflowerblue;
+    padding: 10px 20px;
+    width: 220px;
+    height: 320px;
+    font-size: 13px;
+    margin-top: 70px;
+    
+}
+.mm{
+    margin-bottom: 30px;
+position: absolute; bottom: 0;right: 15px;
+}
+.test{
+    min-height: 100vh;
+    background-image:
+        url(../images/test.jpeg);
+        background-position: center;
+        background-size: cover;
+        background-attachment: fixed;
+}
+.testmon{
+    margin-top: 20%;
+
+}
+.nn{
+    letter-spacing: 3px;
+}
+.one{
+    min-height: 100vh;
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)
+    ) , url(../images/section2.jpeg);
+   
+    background-position: center;
+    background-size: cover;
+}
+.on{
+    color: #478AC9;
+    padding-right: 20px;
+    font-size: 35px;
+    padding-left: 20px;
+    padding-top: 20px;
+
+}
+.rate{
+    margin-top: 26%;
+}
+.rol{
+    background-color: black;
+    min-height: 47vh;
+}
+.elle{
+    margin-top: 10%;
+}
+footer{
+    min-height: 25vh;
+    background-color:#333333 ;
+    text-align: justify;
+    padding: 20px ;
+   font-size: small;
+
+}
+footer p{
+    font-size: 1rem;
+    line-break: 1.6;
+}
